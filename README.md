@@ -77,3 +77,9 @@ to stop container
 ...
 
 docker stop container_id
+
+
+....
+
+pip install ipykernel
+...
